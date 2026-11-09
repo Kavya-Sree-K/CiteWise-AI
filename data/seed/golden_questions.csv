@@ -1,0 +1,25 @@
+question,expected_text,title,version,ask_as
+How do I get VPN access? (global),IT service portal,VPN Access SOP (Global),1,admin
+How long does legal take to review a contract? (global),5 working days,Contract Review SOP (Global),1,employee
+What do I do if my laptop is stolen? (global),security desk,Lost or Stolen Device SOP (Global),2,employee
+How far ahead can I book a meeting room? (global),30 days,Office Facilities Booking SOP (Global),4,employee
+What is the monthly limit on the corporate card? (global),"5,000 USD",Corporate Card Policy (Global),2,employee
+How many days a week can I work remotely? (global),3 days,Remote Work Policy (Global),2,employee
+How quickly must critical services be restored? (global),4 hours,Business Continuity Plan (Global),3,admin
+How many days of annual leave do I get? (global),24 days,Leave Policy (Global),4,employee
+How do I request leave? (global),HR portal,Leave Policy (Global),4,employee
+When must an invention be reported to legal? (global),30 days,Intellectual Property Policy (Global),2,employee
+How long does vendor onboarding take? (global),15 working days,Vendor Onboarding SOP (Global),3,admin
+How early must I book flights? (global),14 days,Travel Policy (Global),3,employee
+What should I do with a suspicious email? (global),Report Phishing,Phishing Response SOP (Global),3,employee
+How long are backups kept? (global),35 days,Data Backup SOP (Global),2,admin
+How do I report a security incident? (global),security desk,Security Incident Reporting SOP (Global),2,employee
+What is the security desk extension? (global),5500,Security Incident Reporting SOP (Global),2,employee
+When are incidents with customer data escalated? (global),4 hours,Security Incident Reporting SOP (Global),2,employee
+How often are laptops replaced? (global),4 years,Laptop Request and Replacement SOP (Global),3,employee
+How long do I have to submit an expense claim? (global),30 days,Expense Reimbursement Policy (Global),4,employee
+When do I need a receipt? (global),25 USD,Expense Reimbursement Policy (Global),4,employee
+How soon must new hires finish mandatory training? (global),14 days,Employee Onboarding SOP (Global),3,employee
+How do I raise an ethics concern? (global),ethics hotline,Code of Conduct (Global),3,employee
+How many quotes do I need for a large purchase? (global),three written quotes,Procurement Approval SOP (Global),2,admin
+How long does a standard NDA last? (global),3 years,NDA Guidelines (Global),3,admin

@@ -1,0 +1,45 @@
+Security Incident Reporting SOP (Global) v1
+
+Purpose
+
+This procedure explains how employees report a suspected security incident.
+
+Scope
+
+This document applies to all employees in every country. It is owned by Cameron Parker and is effective from 2024-12-30.
+
+Rules
+
+Any employee who notices a suspected security incident must report it within 4 hours of noticing it.
+
+The security desk can be reached on extension 5520 at any time of the day.
+
+Employees must not try to investigate or fix the incident on their own.
+
+Reporting in good faith never leads to disciplinary action, even if the alarm turns out to be false.
+
+Procedure
+
+1. Stop using the affected device and do not switch it off.
+
+2. Call the security desk on extension 5520 within 4 hours of noticing the problem.
+
+3. Write down what you saw, the time, and any error messages.
+
+4. Send the written report to the security team by email.
+
+5. Wait for the security team to confirm that the case is open.
+
+Escalation
+
+Cases that involve customer data are escalated to the security manager within 2 hours.
+
+Contacts
+
+Send questions about this document by email to security-help@company.local.
+
+Document Control
+
+Under Security Incident Reporting SOP (Global) (version 1), the standard limit is 365 days. This is the maximum number of days between two checks of the document by its owner.
+
+This is the first version of the document.

@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+.git/
+.env
+knowledge.db*
+backup/
+logs/
+data/
+*.zip
+test_out.txt

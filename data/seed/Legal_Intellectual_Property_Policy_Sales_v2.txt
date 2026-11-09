@@ -1,0 +1,43 @@
+Intellectual Property Policy (Sales) v2
+
+Purpose
+
+This policy explains who owns the work that employees create and how it is protected.
+
+Scope
+
+This document applies to everyone working in the Sales division. It is owned by Victoria Garcia and is effective from 2024-11-11.
+
+Policy Rules
+
+Work created as part of a job belongs to the company.
+
+Open-source code may only be used if the licence is on the approved list.
+
+Inventions must be reported to legal within 60 days of being conceived.
+
+Company logos and brand assets may only be used following the brand guidelines.
+
+Procedure
+
+1. Describe the invention or work in the IP disclosure form.
+
+2. Send the form to the legal team.
+
+3. Legal assesses whether a patent or copyright filing is useful.
+
+4. Legal confirms the decision to the inventor.
+
+Escalation
+
+Suspected misuse of company IP is reported to legal immediately.
+
+Contacts
+
+Send questions about this document by email to legal-help@company.local.
+
+Document Control
+
+Under Intellectual Property Policy (Sales) (version 2), the standard limit is 365 days. This is the maximum number of days between two checks of the document by its owner.
+
+Version 2 replaces version 1. Values and thresholds were revised in the latest yearly check.

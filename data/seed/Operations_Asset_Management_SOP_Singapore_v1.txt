@@ -1,0 +1,43 @@
+Asset Management SOP (Singapore) v1
+
+Purpose
+
+This procedure explains how company equipment is recorded, tracked and retired.
+
+Scope
+
+This document applies to employees based in Singapore. It is owned by John Daniel and is effective from 2024-04-21.
+
+Rules
+
+Every asset above 1,000 USD is recorded in the asset register with an owner.
+
+A physical asset check is performed every 6 months.
+
+Employees who leave must return all assets on their last working day.
+
+Retired assets are wiped and disposed of through an approved recycler.
+
+Procedure
+
+1. Tag the new asset and record it in the asset register.
+
+2. Assign an owner and a location.
+
+3. Update the register whenever the asset moves or changes owner.
+
+4. Retire the asset and record the disposal certificate.
+
+Escalation
+
+Missing assets are reported to the security desk and to the finance controller.
+
+Contacts
+
+Send questions about this document by email to operations-help@company.local.
+
+Document Control
+
+Under Asset Management SOP (Singapore) (version 1), the standard limit is 90 days. This is the maximum number of days between two checks of the document by its owner.
+
+This is the first version of the document.

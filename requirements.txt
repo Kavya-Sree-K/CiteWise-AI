@@ -1,0 +1,22 @@
+fastapi
+uvicorn[standard]
+python-multipart
+sqlalchemy
+bcrypt
+pydantic
+requests
+pypdf
+python-docx
+chromadb
+langgraph
+langchain-core
+streamlit
+pandas
+anthropic        # optional: only used if ANTHROPIC_API_KEY is set
+# seed data and tests
+faker
+reportlab
+pytest
+httpx
+langgraph-checkpoint-sqlite
+langfuse             # optional: tracing, only active when the Langfuse keys are set

@@ -1,0 +1,43 @@
+Office Facilities Booking SOP (United States) v1
+
+Purpose
+
+This procedure explains how to book meeting rooms, desks and parking spaces.
+
+Scope
+
+This document applies to employees based in the United States. It is owned by Lisa Archer and is effective from 2024-06-26.
+
+Rules
+
+Meeting rooms can be booked up to 60 days in advance.
+
+Bookings are released automatically if nobody checks in within 20 minutes.
+
+Desks are booked per day in the workplace app.
+
+Catering orders must be placed at least 5 working days before the event.
+
+Procedure
+
+1. Open the workplace app and choose Rooms or Desks.
+
+2. Select the date, time and location.
+
+3. Confirm the booking and add the attendees.
+
+4. Check in on arrival so the booking is not released.
+
+Escalation
+
+Facilities problems are reported to the facilities help desk.
+
+Contacts
+
+Send questions about this document by email to operations-help@company.local.
+
+Document Control
+
+Under Office Facilities Booking SOP (United States) (version 1), the standard limit is 270 days. This is the maximum number of days between two checks of the document by its owner.
+
+This is the first version of the document.

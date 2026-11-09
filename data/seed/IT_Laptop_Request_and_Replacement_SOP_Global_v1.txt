@@ -1,0 +1,43 @@
+Laptop Request and Replacement SOP (Global) v1
+
+Purpose
+
+This procedure explains how employees get a new laptop or replace a broken one.
+
+Scope
+
+This document applies to all employees in every country. It is owned by Richard Rodriguez and is effective from 2024-07-08.
+
+Rules
+
+Laptops are replaced every 5 years or earlier if they fail.
+
+A broken laptop must be reported within 3 working days of the damage.
+
+A loaner laptop is provided while a repair takes more than two days.
+
+Old laptops must be returned to IT so that the disk can be wiped and recycled.
+
+Procedure
+
+1. Create a hardware request in the IT service portal.
+
+2. Choose the standard model or justify a special model.
+
+3. Your manager approves the request.
+
+4. Collect the laptop from the IT desk and return the old one.
+
+Escalation
+
+Requests that are not fulfilled within 7 working days are escalated to the IT service manager.
+
+Contacts
+
+Send questions about this document by email to it-help@company.local.
+
+Document Control
+
+Under Laptop Request and Replacement SOP (Global) (version 1), the standard limit is 270 days. This is the maximum number of days between two checks of the document by its owner.
+
+This is the first version of the document.

@@ -1,0 +1,43 @@
+Procurement Approval SOP (Sales) v3
+
+Purpose
+
+This procedure describes how purchases are approved and ordered.
+
+Scope
+
+This document applies to everyone working in the Sales division. It is owned by Daniel Murphy and is effective from 2025-09-28.
+
+Rules
+
+Purchases up to 1,000 USD need manager approval only.
+
+Purchases above 5,000 USD require three written quotes and finance approval.
+
+Purchase orders must be issued before any goods or services are delivered.
+
+Invoices are paid 30 days after the goods or services are accepted.
+
+Procedure
+
+1. Create a purchase requisition in the procurement system.
+
+2. Attach quotes if the amount is above the quote threshold.
+
+3. Approvers review and approve the requisition in order.
+
+4. Procurement issues the purchase order to the supplier.
+
+Escalation
+
+Urgent purchases without a purchase order must be reported to the finance controller.
+
+Contacts
+
+Send questions about this document by email to finance-help@company.local.
+
+Document Control
+
+Under Procurement Approval SOP (Sales) (version 3), the standard limit is 90 days. This is the maximum number of days between two checks of the document by its owner.
+
+Version 3 replaces version 2. Values and thresholds were revised in the latest yearly check.

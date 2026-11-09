@@ -1,0 +1,45 @@
+Employee Onboarding SOP (United States) v3
+
+Purpose
+
+This procedure describes what HR, IT and managers do before and during a new hire's first weeks.
+
+Scope
+
+This document applies to employees based in the United States. It is owned by Angie Henderson and is effective from 2025-03-09.
+
+Rules
+
+HR sends the offer pack at least 7 working days before the start date.
+
+IT prepares the laptop and accounts before the new hire's first day.
+
+Every new hire completes the mandatory security and compliance training within 14 days of joining.
+
+Managers hold a check-in conversation with the new hire at the end of weeks one, four and twelve.
+
+Procedure
+
+1. HR confirms the start date and creates the employee record.
+
+2. IT creates the accounts and orders the laptop.
+
+3. The manager prepares a 30-60-90 day plan.
+
+4. The new hire completes orientation and mandatory training.
+
+5. HR closes the onboarding case after the twelve-week check-in.
+
+Escalation
+
+Delays in equipment or access are escalated to the IT service desk by the manager.
+
+Contacts
+
+Send questions about this document by email to hr-help@company.local.
+
+Document Control
+
+Under Employee Onboarding SOP (United States) (version 3), the standard limit is 365 days. This is the maximum number of days between two checks of the document by its owner.
+
+Version 3 replaces version 2. Values and thresholds were revised in the latest yearly check.

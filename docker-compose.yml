@@ -1,0 +1,42 @@
+x-app: &app
+  build: .
+  image: citewise:latest
+  restart: unless-stopped
+
+services:
+  backend:
+    <<: *app
+    command: uvicorn app.main:app --host 0.0.0.0 --port 8000
+    environment:
+      DATABASE_URL: sqlite:////app/data/knowledge.db
+      OLLAMA_URL: ${OLLAMA_URL:-http://host.docker.internal:11434}
+      OLLAMA_MODEL: ${OLLAMA_MODEL:-qwen2.5:3b}
+      EMBED_MODEL: ${EMBED_MODEL:-nomic-embed-text}
+      MOCK_SERVICES_URL: http://mock:9000
+      ANTHROPIC_API_KEY: ${ANTHROPIC_API_KEY:-}
+      LANGFUSE_PUBLIC_KEY: ${LANGFUSE_PUBLIC_KEY:-}
+      LANGFUSE_SECRET_KEY: ${LANGFUSE_SECRET_KEY:-}
+      LANGFUSE_HOST: ${LANGFUSE_HOST:-https://cloud.langfuse.com}
+    volumes:
+      - ./data:/app/data
+      - ./logs:/app/logs
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    ports:
+      - "8000:8000"
+    depends_on:
+      - mock
+
+  mock:
+    <<: *app
+    command: uvicorn mock_services.main:app --host 0.0.0.0 --port 9000
+
+  ui:
+    <<: *app
+    command: streamlit run ui/app.py --server.address 0.0.0.0 --server.port 8501
+    environment:
+      API_URL: http://backend:8000
+    ports:
+      - "8501:8501"
+    depends_on:
+      - backend

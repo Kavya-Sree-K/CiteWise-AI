@@ -1,0 +1,43 @@
+Vendor Onboarding SOP (Contractors) v2
+
+Purpose
+
+This procedure describes how new vendors are checked and added to the approved vendor list.
+
+Scope
+
+This document applies to contractors and temporary staff. It is owned by Cathy Robinson and is effective from 2024-09-16.
+
+Rules
+
+Every new vendor must complete the due-diligence questionnaire.
+
+Vendors that handle personal data need a security review before approval.
+
+Onboarding is completed within 20 working days when all documents are provided.
+
+Approved vendors are reviewed once every 6 months.
+
+Procedure
+
+1. The requester submits a vendor request in the procurement system.
+
+2. The vendor completes the due-diligence questionnaire.
+
+3. Procurement, legal and security complete their checks.
+
+4. Procurement adds the vendor to the approved vendor list.
+
+Escalation
+
+Vendors that fail a check can only be approved by the chief operating officer.
+
+Contacts
+
+Send questions about this document by email to operations-help@company.local.
+
+Document Control
+
+Under Vendor Onboarding SOP (Contractors) (version 2), the standard limit is 90 days. This is the maximum number of days between two checks of the document by its owner.
+
+Version 2 replaces version 1. Values and thresholds were revised in the latest yearly check.

@@ -1,0 +1,17 @@
+﻿# secrets and environment
+.env
+venv/
+__pycache__/
+*.pyc
+
+# local data, databases and logs
+knowledge.db
+knowledge.db-shm
+knowledge.db-wal
+data/chroma/
+data/uploads/
+data/evaluation_*
+logs/
+backup/
+test_out.txt
+*.zip

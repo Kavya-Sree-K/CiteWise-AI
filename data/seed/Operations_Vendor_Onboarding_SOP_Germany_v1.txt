@@ -1,0 +1,43 @@
+Vendor Onboarding SOP (Germany) v1
+
+Purpose
+
+This procedure describes how new vendors are checked and added to the approved vendor list.
+
+Scope
+
+This document applies to employees based in Germany. It is owned by Megan Orr and is effective from 2025-01-23.
+
+Rules
+
+Every new vendor must complete the due-diligence questionnaire.
+
+Vendors that handle personal data need a security review before approval.
+
+Onboarding is completed within 10 working days when all documents are provided.
+
+Approved vendors are reviewed once every 24 months.
+
+Procedure
+
+1. The requester submits a vendor request in the procurement system.
+
+2. The vendor completes the due-diligence questionnaire.
+
+3. Procurement, legal and security complete their checks.
+
+4. Procurement adds the vendor to the approved vendor list.
+
+Escalation
+
+Vendors that fail a check can only be approved by the chief operating officer.
+
+Contacts
+
+Send questions about this document by email to operations-help@company.local.
+
+Document Control
+
+Under Vendor Onboarding SOP (Germany) (version 1), the standard limit is 180 days. This is the maximum number of days between two checks of the document by its owner.
+
+This is the first version of the document.

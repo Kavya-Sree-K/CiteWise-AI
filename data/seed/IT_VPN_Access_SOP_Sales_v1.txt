@@ -1,0 +1,43 @@
+VPN Access SOP (Sales) v1
+
+Purpose
+
+This procedure explains how to request, set up and use the company VPN.
+
+Scope
+
+This document applies to everyone working in the Sales division. It is owned by Gabrielle Davis and is effective from 2024-07-18.
+
+Rules
+
+VPN access is granted on request and needs manager approval.
+
+Sessions are disconnected automatically after 60 minutes of inactivity.
+
+Personal devices may only connect if they are enrolled in device management.
+
+VPN access is reviewed every 180 days and removed if it was not used.
+
+Procedure
+
+1. Raise a VPN request in the IT service portal.
+
+2. Wait for your manager to approve the request.
+
+3. Install the VPN client from the company software centre.
+
+4. Sign in with your company account and your authenticator code.
+
+Escalation
+
+Connection problems that last more than one hour are escalated to the network team.
+
+Contacts
+
+Send questions about this document by email to it-help@company.local.
+
+Document Control
+
+Under VPN Access SOP (Sales) (version 1), the standard limit is 365 days. This is the maximum number of days between two checks of the document by its owner.
+
+This is the first version of the document.
